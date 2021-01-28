@@ -472,12 +472,12 @@ export default class MessageContextMenu extends React.Component {
 
         return (
             <div className="mx_MessageContextMenu">
-                { resendButton }
+                {/* { resendButton }
                 { resendEditButton }
                 { resendReactionsButton }
-                { resendRedactionButton }
+                { resendRedactionButton } */}
                 { redactButton }
-                { cancelButton }
+                {/* { cancelButton }
                 { forwardButton }
                 { pinButton }
                 { viewSourceButton }
@@ -487,7 +487,7 @@ export default class MessageContextMenu extends React.Component {
                 { quoteButton }
                 { externalURLButton }
                 { collapseReplyThread }
-                { reportEventButton }
+                { reportEventButton } */}
             </div>
         );
     }
