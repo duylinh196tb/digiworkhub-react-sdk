@@ -716,7 +716,7 @@ export default class CallHandler {
             confId = base32.stringify(Buffer.from(roomId), { pad: false });
         } else {
             // Create a random human readable conference ID
-            confId = `JitsiConference${generateHumanReadableId()}`;
+            confId = `Conference${generateHumanReadableId()}`;
         }
 
         let widgetUrl = WidgetUtils.getLocalJitsiWrapperUrl({auth: jitsiAuth});
@@ -735,14 +735,14 @@ export default class CallHandler {
         };
 
         const widgetId = (
-            'jitsi_' +
+            'room_' +
             MatrixClientPeg.get().credentials.userId +
             '_' +
             Date.now()
         );
 
-        WidgetUtils.setRoomWidget(roomId, widgetId, WidgetType.JITSI, widgetUrl, 'Jitsi', widgetData).then(() => {
-            console.log('Jitsi widget added');
+        WidgetUtils.setRoomWidget(roomId, widgetId, WidgetType.JITSI, widgetUrl, 'Room', widgetData).then(() => {
+            console.log('Room widget added');
         }).catch((e) => {
             if (e.errcode === 'M_FORBIDDEN') {
                 Modal.createTrackedDialog('Call Failed', '', ErrorDialog, {
@@ -755,7 +755,7 @@ export default class CallHandler {
     }
 
     private terminateCallApp(roomId: string) {
-        Modal.createTrackedDialog('Confirm Jitsi Terminate', '', QuestionDialog, {
+        Modal.createTrackedDialog('Confirm Room Terminate', '', QuestionDialog, {
             hasCancelButton: true,
             title: _t("End conference"),
             description: _t("This will end the conference for everyone. Continue?"),

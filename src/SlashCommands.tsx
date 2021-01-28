@@ -866,9 +866,9 @@ export const Commands = [
                 // Make the widget a Jitsi widget if it looks like a Jitsi widget
                 const jitsiData = Jitsi.getInstance().parsePreferredConferenceUrl(widgetUrl);
                 if (jitsiData) {
-                    console.log("Making /addwidget widget a Jitsi conference");
+                    console.log("Making /addwidget widget a room conference");
                     type = WidgetType.JITSI;
-                    name = "Jitsi Conference";
+                    name = "Conference";
                     data = jitsiData;
                     widgetUrl = WidgetUtils.getLocalJitsiWrapperUrl();
                 }

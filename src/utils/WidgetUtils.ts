@@ -486,8 +486,9 @@ export default class WidgetUtils {
         return url.href;
     }
 
+    //config widget by app name 
     static getWidgetName(app?: IApp): string {
-        return app?.name?.trim() || _t("Unknown App");
+        return "Sphinx" || _t("Unknown App");
     }
 
     static getWidgetDataTitle(app?: IApp): string {

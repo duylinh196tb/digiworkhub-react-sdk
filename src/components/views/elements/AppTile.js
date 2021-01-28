@@ -256,7 +256,9 @@ export default class AppTile extends React.Component {
         if (this.props.app.name && this.props.app.name.trim()) {
             appTileName = this.props.app.name.trim();
         }
-        return appTileName;
+        // return appTileName;
+        // Return title name Apptile menu bar
+        return "Sphinx";
     }
 
     /**

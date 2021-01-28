@@ -198,9 +198,12 @@ const AppsSection: React.FC<IAppsSectionProps> = ({ room }) => {
     return <Group className="mx_RoomSummaryCard_appsGroup" title={_t("Widgets")}>
         { apps.map(app => <AppRow key={app.id} app={app} room={room} />) }
         { copyLayoutBtn }
-        <AccessibleButton kind="link" onClick={onManageIntegrations}>
+
+        {/* Fail connect eddit widgets */}
+        
+        {/* <AccessibleButton kind="link" onClick={onManageIntegrations}>
             { apps.length > 0 ? _t("Edit widgets, bridges & bots") : _t("Add widgets, bridges & bots") }
-        </AccessibleButton>
+        </AccessibleButton> */}
     </Group>;
 };
 
