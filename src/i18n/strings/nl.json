@@ -620,7 +620,7 @@
     "Privacy is important to us, so we don't collect any personal or identifiable data for our analytics.": "Privacy is belangrijk voor ons, dus we verzamelen geen persoonlijke of identificeerbare gegevens voor onze gegevensanalyse.",
     "Learn more about how we use analytics.": "Lees meer over hoe we uw gegevens gebruiken.",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "Er is een e-mail naar %(emailAddress)s verstuurd. Klik hieronder van zodra u de koppeling erin hebt gevolgd.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Merk op dat u zich aanmeldt bij de %(hs)s-server, niet matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Merk op dat u zich aanmeldt bij de %(hs)s-server, niet matrix.org.",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Deze thuisserver heeft geen aanmeldmethodes die door deze cliënt worden ondersteund.",
     "Ignores a user, hiding their messages from you": "Negeert een gebruiker, waardoor de berichten ervan onzichtbaar voor u worden",
     "Stops ignoring a user, showing their messages going forward": "Stopt het negeren van een gebruiker, hierdoor worden de berichten van de gebruiker weer zichtbaar",

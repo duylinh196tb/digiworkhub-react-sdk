@@ -1415,7 +1415,7 @@
     "General failure": "일반적인 실패",
     "This homeserver does not support login using email address.": "이 홈서버는 이메일 주소로 로그인을 지원하지 않습니다.",
     "This account has been deactivated.": "이 계정은 비활성화되었습니다.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "지금 %(hs)s 서버로 로그인하고 있는데, matrix.org로 로그인해야 합니다.",
+    "Please note you are logging into the %(hs)s server": "지금 %(hs)s 서버로 로그인하고 있는데, matrix.org로 로그인해야 합니다.",
     "Failed to perform homeserver discovery": "홈서버 검색 수행에 실패함",
     "Sign in with single sign-on": "통합 인증(SSO)으로 로그인",
     "Create account": "계정 만들기",

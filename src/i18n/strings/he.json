@@ -2642,7 +2642,7 @@
     "There was a problem communicating with the homeserver, please try again later.": "הייתה תקשורת עם שרת הבית. נסה שוב מאוחר יותר.",
     "This homeserver doesn't offer any login flows which are supported by this client.": "שרת בית זה אינו מציע זרמי התחברות הנתמכים על ידי לקוח זה.",
     "Failed to perform homeserver discovery": "נכשל גילוי שרת הבית",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "שים לב שאתה מתחבר לשרת %(hs)s, לא ל- matrix.org.",
+    "Please note you are logging into the %(hs)s server": "שים לב שאתה מתחבר לשרת %(hs)s, לא ל- matrix.org.",
     "Incorrect username and/or password.": "שם משתמש ו / או סיסמה שגויים.",
     "This account has been deactivated.": "חשבון זה הושבת.",
     "Please <a>contact your service administrator</a> to continue using this service.": "אנא <a> פנה למנהל השירות שלך </a> כדי להמשיך להשתמש בשירות זה.",

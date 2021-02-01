@@ -815,7 +815,7 @@
     "Learn more about how we use analytics.": "Mësoni më tepër se si i përdorim analizat.",
     "Reject all %(invitedRooms)s invites": "Mos prano asnjë ftesë për në %(invitedRooms)s",
     "New passwords must match each other.": "Fjalëkalimet e rinj duhet të përputhen me njëri-tjetrin.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Ju lutemi, kini parasysh se jeni futur te shërbyesi %(hs)s, jo te matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Ju lutemi, kini parasysh se jeni futur te shërbyesi %(hs)s, jo te matrix.org.",
     "Stops ignoring a user, showing their messages going forward": "Resht shpërfilljen e një përdoruesi, duke i shfaqur mesazhet e tij të dërgohen",
     "Your browser does not support the required cryptography extensions": "Shfletuesi juaj nuk mbulon zgjerimet kriptografike të domosdoshme",
     "Show timestamps in 12 hour format (e.g. 2:30pm)": "Vulat kohore shfaqi në formatin 12 orësh (p.sh. 2:30pm)",

@@ -2153,7 +2153,7 @@
     "You have %(count)s unread notifications in a prior version of this room.|one": "Ɣur-k·m %(count)s ilɣa ur nettwaɣra ara deg lqem yezrin n texxamt-a.",
     "The email address linked to your account must be entered.": "Tansa n yimayl i icudden ɣer umiḍan-ik·im ilaq ad tettwasekcem.",
     "No identity server is configured: add one in server settings to reset your password.": "Ulac aqeddac n timagit yettusiwlen: rnu yiwen deg yiɣewwaren n uqeddac i wakken ad twennzeḍ awal-ik·im uffir.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Ttxil-k·m gar tamawt aql-ak·akem tkecmeḍ ɣer uqeddac %(hs)s, neɣ matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Ttxil-k·m gar tamawt aql-ak·akem tkecmeḍ ɣer uqeddac %(hs)s, neɣ matrix.org.",
     "Failed to perform homeserver discovery": "Tifin n uqeddac agejdan tegguma ad teddu",
     "The phone number entered looks invalid": "Uṭṭun n tilifun yettwaskecmen yettban d arameɣtu",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Aqeddac-a agejdan ur d-yettmuddu ara akk aseddem n tuqqna i yettwasefraken sɣur umsaɣ-a.",

@@ -770,7 +770,7 @@
     "Return to login screen": "Gå attende til innlogging",
     "Send Reset Email": "Send e-post for nullstilling",
     "Incorrect username and/or password.": "Feil brukarnamn og/eller passord.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Merk deg at du loggar inn på %(hs)s-tenaren, ikkje matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Merk deg at du loggar inn på %(hs)s-tenaren, ikkje matrix.org.",
     "The phone number entered looks invalid": "Det innskrivne telefonnummeret virkar å vere ugyldig",
     "Error: Problem communicating with the given homeserver.": "Feil: Det gjekk ikkje an å kommunisera med den spesifiserte heimetenaren.",
     "Can't connect to homeserver via HTTP when an HTTPS URL is in your browser bar. Either use HTTPS or <a>enable unsafe scripts</a>.": "Kan ikkje kobla til heimetenaren via HTTP fordi URL-adressa i nettlesaren er HTTPS. Bruk HTTPS, eller <a>aktiver usikre skript</a>.",

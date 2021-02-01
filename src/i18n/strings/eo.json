@@ -568,7 +568,7 @@
     "I have verified my email address": "Mi kontrolis mian retpoŝtadreson",
     "Return to login screen": "Reiri al saluta paĝo",
     "Send Reset Email": "Sendi restarigan retleteron",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Rimarku ke vi salutas la servilon %(hs)s, ne matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Rimarku ke vi salutas la servilon %(hs)s, ne matrix.org.",
     "The phone number entered looks invalid": "Tiu ĉi telefona numero ŝajnas malvalida",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Tiu ĉi hejmservilo ne proponas salutajn fluojn subtenatajn de tiu ĉi kliento.",
     "Error: Problem communicating with the given homeserver.": "Eraro: Estas problemo en komunikado kun la hejmservilo.",

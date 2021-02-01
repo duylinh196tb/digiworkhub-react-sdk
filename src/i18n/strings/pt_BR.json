@@ -630,7 +630,7 @@
     "Learn more about how we use analytics.": "Saiba mais sobre como nós usamos os dados estatísticos.",
     "Check for update": "Verificar atualizações",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "Um e-mail foi enviado para %(emailAddress)s. Após clicar no link contido no e-mail, clique abaixo.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Note que você está se conectando ao servidor %(hs)s, e não ao servidor matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Note que você está se conectando ao servidor %(hs)s, e não ao servidor matrix.org.",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Este servidor de base (homeserver) não oferece fluxos de login que funcionem neste cliente.",
     "Define the power level of a user": "Define o nível de permissões de um usuário",
     "Ignores a user, hiding their messages from you": "Bloqueia um usuário, escondendo as mensagens dele de você",

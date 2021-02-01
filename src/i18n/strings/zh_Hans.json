@@ -618,7 +618,7 @@
     "Uploading %(filename)s and %(count)s others|one": "正在上传 %(filename)s 与其他 %(count)s 个文件",
     "Privacy is important to us, so we don't collect any personal or identifiable data for our analytics.": "隐私对我们而言重要至极，所以我们不会在分析统计服务中收集任何个人信息或者可用于识别身份的数据。",
     "Learn more about how we use analytics.": "进一步了解我们如何使用分析统计服务。",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "请注意，您正在登录 %(hs)s，而非 matrix.org。",
+    "Please note you are logging into the %(hs)s server": "请注意，您正在登录 %(hs)s，而非 matrix.org。",
     "This homeserver doesn't offer any login flows which are supported by this client.": "此主服务器不兼容本客户端支持的任何登录方式。",
     "Opens the Developer Tools dialog": "打开开发者工具窗口",
     "Notify the whole room": "通知聊天室全体成员",

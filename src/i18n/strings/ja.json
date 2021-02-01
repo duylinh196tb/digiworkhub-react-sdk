@@ -839,7 +839,7 @@
     "Send Reset Email": "リセットメールを送信",
     "Please <a>contact your service administrator</a> to continue using this service.": "このサービスを続行するには、<a>サービス管理者にお問い合わせ</a>ください。",
     "Incorrect username and/or password.": "不正なユーザー名またはパスワード。",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "matrix.orgではなく、%(hs)s サーバーにログインしていることに注意してください。",
+    "Please note you are logging into the %(hs)s server": "matrix.orgではなく、%(hs)s サーバーにログインしていることに注意してください。",
     "The phone number entered looks invalid": "入力された電話番号が無効です",
     "This homeserver doesn't offer any login flows which are supported by this client.": "このホームサーバーは、このクライアントでサポートされているログインフローを提供していません。",
     "Error: Problem communicating with the given homeserver.": "エラー: 指定されたホームサーバーとの通信に問題があります。",

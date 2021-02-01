@@ -602,7 +602,7 @@
     "Privacy is important to us, so we don't collect any personal or identifiable data for our analytics.": "Privātumu augstu respektējam, tādēļ analītikas mērķiem nevācam nekādus personas un identificējamus datus.",
     "Learn more about how we use analytics.": "Sīkāk par to, kā tiek izmantota analītika.",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "Epasts ir nosūtīts uz %(emailAddress)s. Izmanto epastā nosūtīto tīmekļa saiti un tad noklikšķini zemāk.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Lūdzu ņem vērā, ka Tu pieraksties %(hs)s serverī, nevis matrix.org serverī.",
+    "Please note you are logging into the %(hs)s server": "Lūdzu ņem vērā, ka Tu pieraksties %(hs)s serverī, nevis matrix.org serverī.",
     "Ignores a user, hiding their messages from you": "Ignorē lietotāju, Tev nerādot viņa sūtītās ziņas",
     "Stops ignoring a user, showing their messages going forward": "Atceļ lietotāja ignorēšanu, rādot viņa turpmāk sūtītās ziņas",
     "Notify the whole room": "Paziņot visai istabai",

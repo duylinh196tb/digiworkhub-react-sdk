@@ -596,7 +596,7 @@
     "Return to login screen": "Връщане към страницата за влизане в профила",
     "Send Reset Email": "Изпрати имейл за възстановяване на парола",
     "Incorrect username and/or password.": "Неправилно потребителско име и/или парола.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Моля, обърнете внимание, че влизате в %(hs)s сървър, а не в matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Моля, обърнете внимание, че влизате в %(hs)s сървър, а не в matrix.org.",
     "The phone number entered looks invalid": "Въведеният телефонен номер изглежда невалиден",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Този Home сървър не предлага методи за влизане, които се поддържат от този клиент.",
     "Error: Problem communicating with the given homeserver.": "Грешка: Проблем при комуникацията с дадения Home сървър.",

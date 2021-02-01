@@ -585,7 +585,7 @@
     "Notify the whole room": "Az egész szoba értesítése",
     "Room Notification": "Szoba értesítések",
     "Show these rooms to non-members on the community page and room list?": "Megjelenjenek ezek a szobák kívülállóknak a közösségi oldalon és a szobalistában?",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Figyelem, a %(hs)s szerverre jelentkezel be és nem a matrix.org szerverre.",
+    "Please note you are logging into the %(hs)s server": "Figyelem, a %(hs)s szerverre jelentkezel be és nem a matrix.org szerverre.",
     "Restricted": "Korlátozott",
     "Enable inline URL previews by default": "Beágyazott URL előnézetek alapértelmezett engedélyezése",
     "Enable URL previews for this room (only affects you)": "URL előnézet ebben a szobában (csak téged érint)",

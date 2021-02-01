@@ -617,7 +617,7 @@
     "Privacy is important to us, so we don't collect any personal or identifiable data for our analytics.": "隱私對我們來說至關重要，所以我們不會收集任何私人或可辨識的資料供我們的分析使用。",
     "Learn more about how we use analytics.": "得知更多關於我們如何使用分析資料的資訊。",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "電子郵件已傳送至 %(emailAddress)s。您必須跟隨其中包含了連結，點按下面的連結。",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "請注意，您正在登入 %(hs)s 伺服器，不是 matrix.org。",
+    "Please note you are logging into the %(hs)s server": "請注意，您正在登入 %(hs)s 伺服器，不是 matrix.org。",
     "This homeserver doesn't offer any login flows which are supported by this client.": "這個家伺服器不提供任何此客戶端支援的登入流程。",
     "Ignores a user, hiding their messages from you": "忽略使用者，從您這裡隱藏他們的訊息",
     "Stops ignoring a user, showing their messages going forward": "停止忽略使用者，顯示他們的訊息",

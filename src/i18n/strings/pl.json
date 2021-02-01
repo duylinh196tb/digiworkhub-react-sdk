@@ -750,7 +750,7 @@
     "No Audio Outputs detected": "Nie wykryto wyjść audio",
     "Audio Output": "Wyjście audio",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "E-mail został wysłany na adres %(emailAddress)s. Gdy otworzysz link, który zawiera, kliknij poniżej.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Zauważ proszę, że logujesz się na serwer %(hs)s, nie matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Zauważ proszę, że logujesz się na serwer %(hs)s, nie matrix.org.",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Ten serwer domowy nie oferuje żadnych trybów logowania wspieranych przez Twojego klienta.",
     "Notify the whole room": "Powiadom cały pokój",
     "Room Notification": "Powiadomienia pokoju",

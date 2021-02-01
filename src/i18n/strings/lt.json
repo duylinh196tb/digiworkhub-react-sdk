@@ -390,7 +390,7 @@
     "Return to login screen": "Grįžti į prisijungimą",
     "Send Reset Email": "Siųsti naujo slaptažodžio nustatymo el. laišką",
     "Incorrect username and/or password.": "Neteisingas vartotojo vardas ir/arba slaptažodis.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Atkreipkite dėmesį, kad jūs jungiatės prie %(hs)s serverio, o ne matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Atkreipkite dėmesį, kad jūs jungiatės prie %(hs)s serverio, o ne matrix.org.",
     "Failed to fetch avatar URL": "Nepavyko gauti pseudoportreto URL",
     "Commands": "Komandos",
     "Results from DuckDuckGo": "Rezultatai iš DuckDuckGo",

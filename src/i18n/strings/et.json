@@ -936,7 +936,7 @@
     "Please <a>contact your service administrator</a> to continue using this service.": "Jätkamaks selle teenuse kasutamist palun <a>võta ühendust oma teenuse haldajaga</a>.",
     "This account has been deactivated.": "See kasutajakonto on deaktiveeritud.",
     "Incorrect username and/or password.": "Vigane kasutajanimi ja/või salasõna.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Sa kasutad sisselogimiseks serverit %(hs)s, mitte aga matrix.org'i.",
+    "Please note you are logging into the %(hs)s server": "Sa kasutad sisselogimiseks serverit %(hs)s, mitte aga matrix.org'i.",
     "Failed to perform homeserver discovery": "Koduserveri leidmine ebaõnnestus",
     "The phone number entered looks invalid": "Sisestatud telefoninumber tundub vigane",
     "This homeserver doesn't offer any login flows which are supported by this client.": "See koduserver ei paku ühtegi sisselogimislahendust, mida see klient toetab.",

@@ -1567,7 +1567,7 @@
     "Invalid base_url for m.homeserver": "m.anasunucu için geçersiz base_url",
     "Invalid base_url for m.identity_server": "m.kimlik_sunucu için geçersiz base_url",
     "Identity server URL does not appear to be a valid identity server": "Kimlik sunucu adresi geçerli bir kimlik sunucu adresi gibi gözükmüyor",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Lütfen %(hs)s sunucusuna oturum açtığınızın farkında olun. Bu sunucu matrix.org değil.",
+    "Please note you are logging into the %(hs)s server": "Lütfen %(hs)s sunucusuna oturum açtığınızın farkında olun. Bu sunucu matrix.org değil.",
     "Registration has been disabled on this homeserver.": "Bu anasunucuda kayıt işlemleri kapatılmış.",
     "You can now close this window or <a>log in</a> to your new account.": "Şimdi bu pencereyi kapatabilirsin yada yeni hesabına <a>oturum aç</a>.",
     "Enter your password to sign in and regain access to your account.": "Oturum açmak için şifreni gir ve hesabına yeniden erişimi sağla.",

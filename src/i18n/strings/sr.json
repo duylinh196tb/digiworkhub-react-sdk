@@ -601,7 +601,7 @@
     "Return to login screen": "Врати ме на екран за пријаву",
     "Send Reset Email": "Пошаљи мејл за опоравак",
     "Incorrect username and/or password.": "Нетачно корисничко име и/или лозинка.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Знајте да се пријављујете на сервер %(hs)s, не на matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Знајте да се пријављујете на сервер %(hs)s, не на matrix.org.",
     "The phone number entered looks invalid": "Унети број телефона не изгледа исправно",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Овај кућни сервер не пружа било који начин пријаве унутар овог клијента.",
     "Error: Problem communicating with the given homeserver.": "Грешка: проблем у комуницирању са датим кућним сервером.",

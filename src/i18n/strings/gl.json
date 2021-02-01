@@ -582,7 +582,7 @@
     "Return to login screen": "Volver a pantalla de conexión",
     "Send Reset Email": "Enviar email de restablecemento",
     "Incorrect username and/or password.": "Nome de usuaria ou contrasinal non válidos.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Teña en conta que se está a conectar ao servidor %(hs)s, non a matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Teña en conta que se está a conectar ao servidor %(hs)s, non a matrix.org.",
     "The phone number entered looks invalid": "O número de teléfono introducido non semella ser válido",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Este servidor non ofrece ningún sistema de conexión que soporte este cliente.",
     "Error: Problem communicating with the given homeserver.": "Fallo: problema ao comunicarse con servidor proporcionado.",

@@ -1282,7 +1282,7 @@
     "This homeserver does not support login using email address.": "Deze thuusserver biedt geen oundersteunienge voor anmeldn met een e-mailadresse.",
     "Please <a>contact your service administrator</a> to continue using this service.": "Gelieve <a>contact ip te neemn me je dienstbeheerder</a> vo deze dienst te bluuvn gebruukn.",
     "Incorrect username and/or password.": "Verkeerde gebruukersnoame en/of paswoord.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Zy je dervan bewust da je jen anmeldt by de %(hs)s-server, nie by matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Zy je dervan bewust da je jen anmeldt by de %(hs)s-server, nie by matrix.org.",
     "Failed to perform homeserver discovery": "Ountdekkn van thuusserver is mislukt",
     "The phone number entered looks invalid": "Den ingegeevn telefongnumero ziet er oungeldig uut",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Deze thuusserver è geen anmeldiengsmethodes da door deze cliënt wordn oundersteund.",

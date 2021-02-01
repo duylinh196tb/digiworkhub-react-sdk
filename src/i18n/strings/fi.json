@@ -509,7 +509,7 @@
     "Error whilst fetching joined communities": "Virhe ladatessa listaa yhteisöistä joihin olet liittynyt",
     "Create a new community": "Luo uusi yhteisö",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "Viesti on lähetetty osoitteeseen %(emailAddress)s. Klikkaa alla sen jälkeen kun olet seurannut viestin sisältämää linkkiä.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Huomaa että olet kirjautumassa palvelimelle %(hs)s, etkä palvelimelle matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Huomaa että olet kirjautumassa palvelimelle %(hs)s, etkä palvelimelle matrix.org.",
     "Upload an avatar:": "Lataa profiilikuva:",
     "Deops user with given id": "Poistaa tunnuksen mukaiselta käyttäjältä ylläpito-oikeudet",
     "Ignores a user, hiding their messages from you": "Jättää käyttäjän huomioimatta, jotta hänen viestejään ei näytetä sinulle",

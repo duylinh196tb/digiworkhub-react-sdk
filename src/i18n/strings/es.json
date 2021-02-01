@@ -826,7 +826,7 @@
     "No Audio Outputs detected": "No se detectaron Salidas de Sonido",
     "Audio Output": "Salida de Sonido",
     "An email has been sent to %(emailAddress)s. Once you've followed the link it contains, click below.": "Se envió un correo electrónico a %(emailAddress)s. Una vez hayas seguido el enlace que contiene, haz clic a continuación.",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Por favor, tenga en cuenta que está ingresando en el servidor %(hs)s, no en matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Por favor, tenga en cuenta que está ingresando en el servidor %(hs)s, no en matrix.org.",
     "This homeserver doesn't offer any login flows which are supported by this client.": "Este servidor doméstico no ofrece flujos de ingreso soportados por este cliente.",
     "Set a display name:": "Establece un nombre público:",
     "Upload an avatar:": "Subir un avatar:",

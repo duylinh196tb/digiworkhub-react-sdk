@@ -245,7 +245,7 @@ export default class LoginComponent extends React.PureComponent<IProps, IState> 
                             <div>{ _t('Incorrect username and/or password.') }</div>
                             <div className="mx_Login_smallError">
                                 {_t(
-                                    'Please note you are logging into the %(hs)s server, not matrix.org.',
+                                    'Please note you are logging into the %(hs)s server',
                                     {hs: this.props.serverConfig.hsName},
                                 )}
                             </div>

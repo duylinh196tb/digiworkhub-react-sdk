@@ -588,7 +588,7 @@
     "Enable inline URL previews by default": "URL-Vorschau standardmäßig aktivieren",
     "Enable URL previews for this room (only affects you)": "URL-Vorschau für diesen Raum aktivieren (betrifft nur dich)",
     "Enable URL previews by default for participants in this room": "URL-Vorschau standardmäßig für Mitglieder dieses Raumes aktivieren",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Hinweis: Du meldest dich auf dem %(hs)s-Server an, nicht auf matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Hinweis: Du meldest dich auf dem %(hs)s-Server an, nicht auf matrix.org.",
     "There's no one else here! Would you like to <inviteText>invite others</inviteText> or <nowarnText>stop warning about the empty room</nowarnText>?": "Sonst ist hier aktuell niemand. Möchtest du <inviteText>Benutzer einladen</inviteText> oder die <nowarnText>Warnmeldung bezüglich des leeren Raums deaktivieren</nowarnText>?",
     "URL previews are disabled by default for participants in this room.": "URL-Vorschau ist für Mitglieder dieses Raumes standardmäßig deaktiviert.",
     "URL previews are enabled by default for participants in this room.": "URL-Vorschau ist für Mitglieder dieses Raumes standardmäßig aktiviert.",

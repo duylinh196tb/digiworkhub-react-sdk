@@ -503,7 +503,7 @@
     "Your Communities": "Zure komunitateak",
     "Create a new community": "Sortu komunitate berria",
     "Warning": "Abisua",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Kontuan izan %(hs)s zerbitzarira elkartu zarela, ez matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Kontuan izan %(hs)s zerbitzarira elkartu zarela, ez matrix.org.",
     "Notify the whole room": "Jakinarazi gela osoari",
     "Room Notification": "Gela jakinarazpena",
     "New community ID (e.g. +foo:%(localDomain)s)": "Komunitatearen ID berria (adib +izena:%(localDomain)s)",

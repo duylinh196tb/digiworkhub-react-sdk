@@ -584,7 +584,7 @@
     "File to import": "Importovať zo súboru",
     "Import": "Importovať",
     "Show these rooms to non-members on the community page and room list?": "Zobrazovať tieto miestnosti na domovskej stránke komunity a v zozname miestností aj pre nečlenov?",
-    "Please note you are logging into the %(hs)s server, not matrix.org.": "Všimnite si: Práve sa prihlasujete na server %(hs)s, nie na server matrix.org.",
+    "Please note you are logging into the %(hs)s server": "Všimnite si: Práve sa prihlasujete na server %(hs)s, nie na server matrix.org.",
     "Restricted": "Obmedzené",
     "Enable inline URL previews by default": "Predvolene povoliť náhľady URL adries",
     "Enable URL previews for this room (only affects you)": "Povoliť náhľady URL adries pre túto miestnosť (ovplyvňuje len vás)",
