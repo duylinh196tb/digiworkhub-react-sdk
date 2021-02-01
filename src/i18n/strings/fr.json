@@ -2160,7 +2160,7 @@
     "Verify this login": "Vérifier cette connexion",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Confirmez votre identité en vérifiant cette connexion depuis une de vos autres sessions, cela lui permettra d’avoir accès aux messages chiffrés.",
     "This requires the latest %(brand)s on your other devices:": "Ceci nécessite la dernière version de %(brand)s sur vos autres appareils :",
-    "or another cross-signing capable Matrix client": "ou un autre client Matrix compatible avec la signature croisée",
+    "or another cross-signing capable client": "ou un autre client Matrix compatible avec la signature croisée",
     "Where you’re logged in": "Où vous vous êtes connecté",
     "Manage the names of and sign out of your sessions below or <a>verify them in your User Profile</a>.": "Gérez les noms et déconnectez-vous de vos sessions ci-dessous ou <a>vérifiez-les dans votre profil utilisateur</a>.",
     "Review where you’re logged in": "Vérifier où vous vous êtes connecté",

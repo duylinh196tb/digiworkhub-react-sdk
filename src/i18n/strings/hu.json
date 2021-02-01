@@ -2156,7 +2156,7 @@
     "Verify this login": "Belépés ellenőrzése",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Erősítsd meg ebben a bejelentkezésben a személyazonosságodat egy másik munkamenetből, hogy hozzáférhess a titkosított üzenetekhez.",
     "This requires the latest %(brand)s on your other devices:": "A %(brand)s legújabb kliensére van ehhez szükséged a többi eszközödön:",
-    "or another cross-signing capable Matrix client": "vagy másik eszközök közötti hitelesítésre alkalmas Matrix kliensre",
+    "or another cross-signing capable client": "vagy másik eszközök közötti hitelesítésre alkalmas Matrix kliensre",
     "Unable to query secret storage status": "A biztonsági tároló állapotát nem lehet lekérdezni",
     "Review where you’re logged in": "Tekintsd át hol vagy bejelentkezve",
     "New login. Was this you?": "Új bejelentkezés. Te voltál?",

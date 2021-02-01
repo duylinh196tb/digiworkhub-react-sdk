@@ -2569,7 +2569,7 @@
     "%(brand)s Desktop": "%(brand)s Desktop",
     "%(brand)s iOS": "%(brand)s iOS",
     "%(brand)s Android": "%(brand)s Android",
-    "or another cross-signing capable Matrix client": "or another cross-signing capable Matrix client",
+    "or another cross-signing capable client": "or another cross-signing capable client",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.",
     "Your new session is now verified. Other users will see it as trusted.": "Your new session is now verified. Other users will see it as trusted.",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Without completing security on this session, it won’t have access to encrypted messages.",

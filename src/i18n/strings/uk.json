@@ -1177,7 +1177,7 @@
     "%(brand)s Desktop": "%(brand)s Desktop",
     "%(brand)s iOS": "%(brand)s iOS",
     "%(brand)s Android": "%(brand)s Android",
-    "or another cross-signing capable Matrix client": "або інший здатний до перехресного підписування Matrix-клієнт",
+    "or another cross-signing capable client": "або інший здатний до перехресного підписування Matrix-клієнт",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "Ваш новий сеанс тепер є звірений. Він має доступ до ваших зашифрованих повідомлень, а інші користувачі бачитимуть його як довірений.",
     "Emoji": "Емодзі",
     "Emoji Autocomplete": "Самодоповнення емодзі",

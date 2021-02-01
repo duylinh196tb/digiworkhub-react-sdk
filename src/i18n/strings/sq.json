@@ -2169,7 +2169,7 @@
     "Verify this login": "Verifikoni këto kredenciale hyrjeje",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Ripohoni identitetin tuaj duke verifikuar këto kredenciale hyrjesh prej një nga sesionet tuaj të tjerë, duke i akorduar hyrje te mesazhet e fshehtëzuar.",
     "This requires the latest %(brand)s on your other devices:": "Kjo lyp %(brand)s-in më të ri te pajisjet tuaja të tjera:",
-    "or another cross-signing capable Matrix client": "ose një tjetër klient Matrix i aftë për <em>cross-signing</em",
+    "or another cross-signing capable client": "ose një tjetër klient Matrix i aftë për <em>cross-signing</em",
     "Unable to query secret storage status": "S’u arrit të merret gjendje depozite të fshehtë",
     "Currently indexing: %(currentRoom)s": "Indeksim aktual: %(currentRoom)s",
     "Opens chat with the given user": "Hap fjalosje me përdoruesin e dhënë",

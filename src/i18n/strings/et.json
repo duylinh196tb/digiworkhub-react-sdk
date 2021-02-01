@@ -1375,7 +1375,7 @@
     "Looks good!": "Tundub õige!",
     "Use Recovery Key or Passphrase": "Kasuta taastevõtit või paroolifraasi",
     "Use Recovery Key": "Kasuta taastevõtit",
-    "or another cross-signing capable Matrix client": "või mõnda teist Matrix'i klienti, mis oskab risttunnustamist",
+    "or another cross-signing capable client": "või mõnda teist Matrix'i klienti, mis oskab risttunnustamist",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "Sinu uus sessioon on nüüd verifitseeritud. Selles sessioonis saad lugeda oma krüptitud sõnumeid ja teiste kasutajate jaoks on ta usaldusväärne.",
     "Your new session is now verified. Other users will see it as trusted.": "Sinu uus sessioon on nüüd verifitseeritud. Teiste kasutajate jaoks on ta usaldusväärne.",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Kui sa pole selle sessiooni turvaprotseduure lõpetanud, siis sul puudub ligipääs oma krüptitud sõnumitele.",

@@ -1323,7 +1323,7 @@
     "If you've joined lots of rooms, this might take a while": "たくさんの部屋に参加している場合は、時間がかかる可能性があります",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "このログインを他のセッションで承認し、あなたの認証情報を確認すれば、暗号化されたメッセージへアクセスできるようになります。",
     "This requires the latest %(brand)s on your other devices:": "最新版の %(brand)s が他のあなたのデバイスで実行されている必要があります:",
-    "or another cross-signing capable Matrix client": "もしくはクロス署名に対応した他の Matrix クライアント",
+    "or another cross-signing capable client": "もしくはクロス署名に対応した他の Matrix クライアント",
     "Without completing security on this session, it won’t have access to encrypted messages.": "このセッションでのセキュリティを完了させない限り、暗号化されたメッセージにはアクセスできません。",
     "Single Sign On": "シングルサインオン",
     "Light": "ライト",

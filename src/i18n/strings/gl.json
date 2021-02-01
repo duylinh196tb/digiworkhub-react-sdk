@@ -2141,7 +2141,7 @@
     "Use Recovery Key": "Usa chave de recuperación",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Confirma a túa identidade verificando esta conexión desde unha das outras sesións, permitindo así acceder ás mensaxes cifradas.",
     "This requires the latest %(brand)s on your other devices:": "Require a última versión de %(brand)s nos outros dispositivos:",
-    "or another cross-signing capable Matrix client": "ou outro cliente Matrix que permita a sinatura-cruzada",
+    "or another cross-signing capable client": "ou outro cliente Matrix que permita a sinatura-cruzada",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "A nova sesión foi verificada. Tes acceso ás mensaxes cifradas, e outras persoas verante como confiable.",
     "Your new session is now verified. Other users will see it as trusted.": "A nova sesión foi verificada. Outras persoas verante como confiable.",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Sen non garantes a seguridade para esta sesión non poderá acceder a mensaxes cifradas.",

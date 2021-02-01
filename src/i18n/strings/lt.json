@@ -1155,7 +1155,7 @@
     "You can now close this window or <a>log in</a> to your new account.": "Jūs galite uždaryti šį langą arba <a>prisijungti</a> į savo naują paskyrą.",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Identifikuokite save, patvirtindami šį prisijungimą viename iš kitų jūsų seansų, ir suteikdami jam prieigą prie šifruotų žinučių.",
     "This requires the latest %(brand)s on your other devices:": "Tam reikia naujausios %(brand)s versijos kituose jūsų įrenginiuose:",
-    "or another cross-signing capable Matrix client": "arba kito kryžminį pasirašymą palaikančio Matrix kliento",
+    "or another cross-signing capable client": "arba kito kryžminį pasirašymą palaikančio Matrix kliento",
     "Upgrade this session to allow it to verify other sessions, granting them access to encrypted messages and marking them as trusted for other users.": "Atnaujinkite šį seansą, kad jam būtų leista patvirtinti kitus seansus, suteikiant jiems prieigą prie šifruotų žinučių ir juos pažymint kaip patikimus kitiems vartotojams.",
     "Use Single Sign On to continue": "Norėdami tęsti naudokite Vieną Prisijungimą",
     "Confirm adding this email address by using Single Sign On to prove your identity.": "Patvirtinkite šio el. pašto adreso pridėjimą naudodami Vieną Prisijungimą, kad įrodytumėte savo tapatybę.",

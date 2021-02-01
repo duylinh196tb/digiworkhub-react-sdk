@@ -2309,7 +2309,7 @@
     "Block anyone not part of %(serverName)s from ever joining this room.": "Blokovat komukoli, kdo není součástí serveru %(serverName)s, aby se nikdy nepřipojil do této místnosti.",
     "Back up your encryption keys with your account data in case you lose access to your sessions. Your keys will be secured with a unique Recovery Key.": "Zálohujte šifrovací klíče s daty vašeho účtu pro případ, že ztratíte přístup k relacím. Vaše klíče budou zabezpečeny jedinečným klíčem pro obnovení.",
     "Manage the names of and sign out of your sessions below or <a>verify them in your User Profile</a>.": "Níže můžete spravovat názvy a odhlásit se ze svých relací nebo <a>je ověřit v uživatelském profilu</a>.",
-    "or another cross-signing capable Matrix client": "nebo jiný Matrix klient schopný cross-signing",
+    "or another cross-signing capable client": "nebo jiný Matrix klient schopný cross-signing",
     "Cross-signing is not set up.": "Cross-signing není nastaveno.",
     "Cross-signing is ready for use.": "Cross-signing je připraveno k použití.",
     "Create a Group Chat": "Vytvořit skupinový chat",

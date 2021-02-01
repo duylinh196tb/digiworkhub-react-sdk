@@ -2060,7 +2060,7 @@
     "You can now close this window or <a>log in</a> to your new account.": "Tzemreḍ tura ad tmedleḍ asfaylu-a neɣ <a>kcem</a> ɣer umiḍan-ik·im amaynut.",
     "Use Recovery Key or Passphrase": "Seqdec tasarut tuffirt neɣ tafyirt tuffirt n uεeddi",
     "This requires the latest %(brand)s on your other devices:": "Ayagi yesra %(brand)s tineggura ɣef yibenkan-ik·im wiyaḍ:",
-    "or another cross-signing capable Matrix client": "neɣ amsaɣ-nniḍen n Matrix yemṣadan d uzmul amdigan",
+    "or another cross-signing capable client": "neɣ amsaɣ-nniḍen n Matrix yemṣadan d uzmul amdigan",
     "Your new session is now verified. Other users will see it as trusted.": "Tiɣimit-ik·im tamaynut tettwasenqed tura. Ad tt-walin wiyaḍ tettwaḍman.",
     "Failed to re-authenticate due to a homeserver problem": "Allus n usesteb ur yeddi ara ssebbba n wugur deg uqeddac agejdan",
     "Enter your password to sign in and regain access to your account.": "Sekcem awal-ik·im uffir i wakken ad teqqneḍ syen ad tkecmeḍ i tikkelt tayeḍ ɣer umiḍan-ik·im.",

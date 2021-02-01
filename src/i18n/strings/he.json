@@ -2609,7 +2609,7 @@
     "Without completing security on this session, it won’t have access to encrypted messages.": "מבלי להשלים את האבטחה במפגש זה, לא תהיה לו גישה להודעות מוצפנות.",
     "Your new session is now verified. Other users will see it as trusted.": "ההפעלה החדשה שלך אומתה. משתמשים אחרים יראו בכך אמין.",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "ההפעלה החדשה שלך אומתה. יש לו גישה להודעות המוצפנות שלך, ומשתמשים אחרים יראו בכך אמינים.",
-    "or another cross-signing capable Matrix client": "או לקוח מטריקס אחר עם יכולת חתימה צולבת",
+    "or another cross-signing capable client": "או לקוח מטריקס אחר עם יכולת חתימה צולבת",
     "%(brand)s Android": "%(brand)s אנדרויד",
     "%(brand)s iOS": "%(brand)s אפל",
     "%(brand)s Desktop": "%(brand)s למחשב דסקטופ",

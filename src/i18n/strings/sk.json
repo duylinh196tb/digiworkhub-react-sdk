@@ -1457,7 +1457,7 @@
     "Clear cross-signing keys": "Zmazať kľúče pre krížové podpisovanie",
     "a new cross-signing key signature": "nový podpis kľúča pre krížové podpisovanie",
     "a device cross-signing signature": "podpis krížovo podpísaného zariadenia",
-    "or another cross-signing capable Matrix client": "alebo iný Matrixový klient podporujúci krížové podpisovanie",
+    "or another cross-signing capable client": "alebo iný Matrixový klient podporujúci krížové podpisovanie",
     "Removing…": "Odstraňovanie…",
     "Your new account (%(newAccountId)s) is registered, but you're already logged into a different account (%(loggedInUserId)s).": "Váš nový účet (%(newAccountId)s) je registrovaný, ale už ste prihlásený pod iným účtom (%(loggedInUserId)s).",
     "Continue with previous account": "Pokračovať s predošlým účtom",

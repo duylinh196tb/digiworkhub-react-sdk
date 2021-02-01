@@ -2535,7 +2535,7 @@
     "Moldova": "Moldova",
     "You’re all caught up": "Olet ajan tasalla",
     "Room settings": "Huoneen asetukset",
-    "or another cross-signing capable Matrix client": "tai muu ristiinvarmentava Matrix-asiakas",
+    "or another cross-signing capable client": "tai muu ristiinvarmentava Matrix-asiakas",
     "a device cross-signing signature": "laitteen ristiinvarmennuksen allekirjoitus",
     "a new cross-signing key signature": "Uusi ristiinvarmennuksen allekirjoitus",
     "Cross-signing is not set up.": "Ristiinvarmennusta ei ole asennettu.",

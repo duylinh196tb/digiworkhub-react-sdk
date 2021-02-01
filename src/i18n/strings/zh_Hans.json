@@ -2205,7 +2205,7 @@
     "%(brand)s Desktop": "%(brand)s 桌面版",
     "%(brand)s iOS": "%(brand)s iOS",
     "%(brand)s X for Android": "%(brand)s X for Android",
-    "or another cross-signing capable Matrix client": "或者别的可以交叉签名的 Matrix 客户端",
+    "or another cross-signing capable client": "或者别的可以交叉签名的 Matrix 客户端",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "您的新会话现已被验证。它可以访问您的加密消息，别的用户也会视其为受信任的。",
     "Your new session is now verified. Other users will see it as trusted.": "您的新会话现已被验证。别的用户会视其为受信任的。",
     "Without completing security on this session, it won’t have access to encrypted messages.": "若不在此会话中完成安全验证，它便不能访问加密消息。",

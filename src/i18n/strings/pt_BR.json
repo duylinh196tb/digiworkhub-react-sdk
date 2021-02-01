@@ -2223,7 +2223,7 @@
     "Homeserver URL does not appear to be a valid Matrix homeserver": "O endereço do servidor local não parece indicar um servidor local válido na Matrix",
     "Identity server URL does not appear to be a valid identity server": "O endereço do servidor de identidade não parece indicar um servidor de identidade válido",
     "This homeserver does not support login using email address.": "Este servidor local não suporta login usando endereço de e-mail.",
-    "or another cross-signing capable Matrix client": "ou outro cliente Matrix com capacidade de autoverificação",
+    "or another cross-signing capable client": "ou outro cliente Matrix com capacidade de autoverificação",
     "For a large amount of messages, this might take some time. Please don't refresh your client in the meantime.": "Quando há muitas mensagens, isso pode levar algum tempo. Por favor, não recarregue o seu cliente enquanto isso.",
     "<b>Warning</b>: Upgrading a room will <i>not automatically migrate room members to the new version of the room.</i> We'll post a link to the new room in the old version of the room - room members will have to click this link to join the new room.": "<b>Atenção</b>: ao atualizar uma sala, <i>os participantes da sala não são migrados automaticamente para a versão atualizada da sala.</i> Publicaremos um link da nova sala na versão antiga da sala - os participantes da sala terão que clicar neste link para entrar na nova sala.",
     "Upgrade this room to the recommended room version": "Atualizar a versão desta sala",

@@ -2276,7 +2276,7 @@
     "%(brand)s Desktop": "%(brand)s skrivbord",
     "%(brand)s iOS": "%(brand)s iOS",
     "%(brand)s Android": "%(brand)s Android",
-    "or another cross-signing capable Matrix client": "eller en annan Matrix-klient som stöder korssignering",
+    "or another cross-signing capable client": "eller en annan Matrix-klient som stöder korssignering",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "Din nya session har nu verifierats. Den har tillgång till dina krypterade meddelanden, och andra användare kommer att se den som betrodd.",
     "Your new session is now verified. Other users will see it as trusted.": "Din nya session har nu verifierats. Andra användare kommer att se den som betrodd.",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Utan att slutföra säkerheten på den här sessionen får den inte tillgång till krypterade meddelanden.",

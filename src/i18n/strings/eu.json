@@ -2143,7 +2143,7 @@
     "If you've joined lots of rooms, this might take a while": "Gela askotara elkartu bazara, honek denbora behar lezake",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Baieztatu zure identitatea saio hau zure beste saio batetik egiaztatuz, mezu zifratuetara sarbidea emanez.",
     "This requires the latest %(brand)s on your other devices:": "Honek zure beste gailuetan azken %(brand)s bertsioa eskatzen du:",
-    "or another cross-signing capable Matrix client": "edo zeharkako sinadurarako gai den beste Matrix bezero bat",
+    "or another cross-signing capable client": "edo zeharkako sinadurarako gai den beste Matrix bezero bat",
     "Great! This recovery passphrase looks strong enough.": "Bikain! Berreskuratze pasa-esaldi hau sendoa dirudi.",
     "Enter a recovery passphrase": "Sartu berreskuratze pasa-esaldia",
     "Enter your recovery passphrase a second time to confirm it.": "Sartu zure berreskuratze pasa-esaldia berriro baieztatzeko.",

@@ -2309,7 +2309,7 @@
     "%(brand)s Desktop": "%(brand)s Escritorio",
     "%(brand)s iOS": "%(brand)s iOS",
     "%(brand)s Android": "%(brand)s Android",
-    "or another cross-signing capable Matrix client": "u otro cliente Matrix con capacidad de firma cruzada",
+    "or another cross-signing capable client": "u otro cliente Matrix con capacidad de firma cruzada",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Sin completar la seguridad en esta sesión, no tendrá acceso a los mensajes cifrados.",
     "Failed to re-authenticate due to a homeserver problem": "No se pudo volver a autenticar debido a un problema con el servidor doméstico",
     "Failed to re-authenticate": "No se pudo volver a autenticar",

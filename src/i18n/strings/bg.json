@@ -2151,7 +2151,7 @@
     "If you've joined lots of rooms, this might take a while": "Това може да отнеме известно време, ако сте в много стаи",
     "Confirm your identity by verifying this login from one of your other sessions, granting it access to encrypted messages.": "Потвърдете идентичността на този вход чрез верифицирането му от някоя от другите ви сесии, давайки достъп до шифрованите съобщения.",
     "This requires the latest %(brand)s on your other devices:": "Това изисква най-новата версия на %(brand)s на другите ви устройства:",
-    "or another cross-signing capable Matrix client": "или друг Matrix клиент поддържащ кръстосано-подписване",
+    "or another cross-signing capable client": "или друг Matrix клиент поддържащ кръстосано-подписване",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "Сесията ви е потвърдена. Тя има достъп до шифрованите ви съобщения. Други потребители я виждат като доверена.",
     "Your new session is now verified. Other users will see it as trusted.": "Новата ви сесия е потвърдена. Другите потребители ще я виждат като доверена.",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Без да повишите сигурността на тази сесия, няма да имате достъп до шифрованите съобщения.",

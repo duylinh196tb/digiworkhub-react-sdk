@@ -2305,7 +2305,7 @@
     "%(brand)s Desktop": "Настольный клиент %(brand)s",
     "%(brand)s iOS": "iOS клиент %(brand)s",
     "%(brand)s X for Android": "%(brand)s X для Android",
-    "or another cross-signing capable Matrix client": "или другой, поддерживаемый кросс-подпись Matrix клиент",
+    "or another cross-signing capable client": "или другой, поддерживаемый кросс-подпись Matrix клиент",
     "Your new session is now verified. It has access to your encrypted messages, and other users will see it as trusted.": "Ваша новая сессия теперь подтверждена. У неё есть доступ к вашим зашифрованным сообщениям, и другие пользователи будут считать её доверенной.",
     "Your new session is now verified. Other users will see it as trusted.": "Ваша новая сессия теперь проверена. Другие пользователи будут считать её доверенной.",
     "Without completing security on this session, it won’t have access to encrypted messages.": "Без подтверждения этой сессии, у неё не будет доступа к зашифрованным сообщениям.",
