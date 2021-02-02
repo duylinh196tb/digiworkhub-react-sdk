@@ -81,6 +81,8 @@ const ServerPicker = ({ title, dialogTitle, serverConfig, onServerConfigChange }
         </span>;
     }
 
+    return null
+
     return <div className="mx_ServerPicker">
         <h3>{title || _t("Homeserver")}</h3>
         <AccessibleButton className="mx_ServerPicker_help" onClick={onHelpClick} />
